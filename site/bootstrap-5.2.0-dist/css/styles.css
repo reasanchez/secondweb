@@ -3,7 +3,6 @@
 #header-nav {
 background-color: #f6b319;
 border-radius: 0;
-border: 10px solid black;
   
 }
 
@@ -16,7 +15,6 @@ border: 10px solid black;
 
 .navbar-brand {
   padding-top: 1px;
-  border: 10px solid white;
 }
 
 .navbar-brand h1 { /* Restaurant name */
