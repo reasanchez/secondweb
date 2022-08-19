@@ -1,14 +1,14 @@
 body {
 font-size: 16px;
 color: #fff;
-background-color: #61122f;
+background-color: #61122f ;
 font-family: 'Oxygen', sans-serif;
 }
 
 #header-nav {
 background-color: #f6b319;
 border-radius: 0;
-border: 0;
+border: 10px solid black;
 }
 
 #logo-img {
@@ -20,6 +20,7 @@ border: 0;
 
 .navbar-brand {
   padding-top: 1px;
+  border: 10px solid white;
 }
 
 .navbar-brand h1 { /* Restaurant name */
